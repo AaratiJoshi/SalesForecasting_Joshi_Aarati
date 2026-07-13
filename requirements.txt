@@ -14,4 +14,3 @@ numpy
 matplotlib
 scikit-learn
 xgboost
-pickle
